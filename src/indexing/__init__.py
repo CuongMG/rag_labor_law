@@ -1,0 +1,1 @@
+# Indexing Pipeline — Load, chunk, process text
